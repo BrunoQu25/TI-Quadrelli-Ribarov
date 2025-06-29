@@ -1,6 +1,6 @@
 .env
 .ipynb_checkpoints/
 *.ipynb
-olist_customers_dataset.csv
+dataset
 main.db
 .DS_Store
